@@ -1,0 +1,16 @@
+c:\users\özgür\documents\visual studio 2015\Projects\Emlak Yönetim Otomasyonu\Emlak Yönetim Otomasyonu\bin\Debug\Emlak Yönetim Otomasyonu.exe.config
+c:\users\özgür\documents\visual studio 2015\Projects\Emlak Yönetim Otomasyonu\Emlak Yönetim Otomasyonu\bin\Debug\Emlak Yönetim Otomasyonu.exe
+c:\users\özgür\documents\visual studio 2015\Projects\Emlak Yönetim Otomasyonu\Emlak Yönetim Otomasyonu\bin\Debug\Emlak Yönetim Otomasyonu.pdb
+c:\users\özgür\documents\visual studio 2015\Projects\Emlak Yönetim Otomasyonu\Emlak Yönetim Otomasyonu\obj\Debug\Emlak Yönetim Otomasyonu.csprojResolveAssemblyReference.cache
+c:\users\özgür\documents\visual studio 2015\Projects\Emlak Yönetim Otomasyonu\Emlak Yönetim Otomasyonu\obj\Debug\Emlak_Yönetim_Otomasyonu.Form1.resources
+c:\users\özgür\documents\visual studio 2015\Projects\Emlak Yönetim Otomasyonu\Emlak Yönetim Otomasyonu\obj\Debug\Emlak_Yönetim_Otomasyonu.Properties.Resources.resources
+c:\users\özgür\documents\visual studio 2015\Projects\Emlak Yönetim Otomasyonu\Emlak Yönetim Otomasyonu\obj\Debug\Emlak Yönetim Otomasyonu.csproj.GenerateResource.Cache
+c:\users\özgür\documents\visual studio 2015\Projects\Emlak Yönetim Otomasyonu\Emlak Yönetim Otomasyonu\obj\Debug\Emlak Yönetim Otomasyonu.exe
+c:\users\özgür\documents\visual studio 2015\Projects\Emlak Yönetim Otomasyonu\Emlak Yönetim Otomasyonu\obj\Debug\Emlak Yönetim Otomasyonu.pdb
+c:\users\özgür\documents\visual studio 2015\Projects\Emlak Yönetim Otomasyonu\Emlak Yönetim Otomasyonu\obj\Debug\Emlak_Yönetim_Otomasyonu.Form2.resources
+c:\users\özgür\documents\visual studio 2015\Projects\Emlak Yönetim Otomasyonu\Emlak Yönetim Otomasyonu\obj\Debug\Emlak_Yönetim_Otomasyonu.Form3.resources
+c:\users\özgür\documents\visual studio 2015\Projects\Emlak Yönetim Otomasyonu\Emlak Yönetim Otomasyonu\obj\Debug\Emlak_Yönetim_Otomasyonu.Form4.resources
+c:\users\özgür\documents\visual studio 2015\Projects\Emlak Yönetim Otomasyonu\Emlak Yönetim Otomasyonu\obj\Debug\Emlak_Yönetim_Otomasyonu.Form5.resources
+c:\users\özgür\documents\visual studio 2015\Projects\Emlak Yönetim Otomasyonu\Emlak Yönetim Otomasyonu\obj\Debug\Emlak_Yönetim_Otomasyonu.Form6.resources
+C:\Users\Özgür\documents\visual studio 2015\Projects\Emlak Yönetim Otomasyonu\Emlak Yönetim Otomasyonu\obj\Debug\Emlak_Yönetim_Otomasyonu.Form7.resources
+C:\Users\Özgür\documents\visual studio 2015\Projects\Emlak Yönetim Otomasyonu\Emlak Yönetim Otomasyonu\obj\Debug\Emlak_Yönetim_Otomasyonu.Form8.resources
